@@ -1,6 +1,5 @@
-number = input("整数を入力してください: ")
+number = 10
 
-number = int(number)
 sum = 0
 double_sum = 0
 
