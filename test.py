@@ -1,4 +1,4 @@
-number = 10
+number = 50
 
 sum = 0
 double_sum = 0
