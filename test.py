@@ -1,4 +1,4 @@
-number = input("Please enter an integer: ")
+number = input("整数を入力してください: ")
 
 number = int(number)
 sum = 0
